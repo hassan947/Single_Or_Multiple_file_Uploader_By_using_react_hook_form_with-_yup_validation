@@ -1,4 +1,4 @@
-## Single_Or_Multiple_file_Uploader_By_using_MUI_&_react_hook_form_with-_yup_validation 
+## Single_Or_Multiple_file_Uploader_By_using_MUI_&_react_hook_form_with_yup_validation 
 (reuseable component)
 
 ![n1](https://github.com/user-attachments/assets/267df364-8b29-4d04-bd39-07f8b4e73fe8)
